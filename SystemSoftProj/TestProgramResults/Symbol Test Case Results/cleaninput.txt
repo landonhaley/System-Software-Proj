@@ -1,0 +1,36 @@
+
+
+x y z       
+abcdefghijk 
+1 2 3       
+12345       
++           
+-           
+*           
+/           
+odd         
+=           
+<>          
+<           
+<=          
+>           
+>=          
+(           
+)           
+,           
+;           
+.           
+:=          
+begin       
+end         
+if          
+then        
+while       
+do          
+call        
+const       
+var         
+procedure   
+write       
+read        
+else        
